@@ -1,0 +1,1048 @@
+[01Jan2025 00:02:54.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01Jan2025 00:09:45.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 00:09:50.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 00:09:54.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 00:10:01.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 00:10:11.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 00:10:22.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 00:10:29.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 00:10:35.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 00:10:43.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 00:10:54.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 00:10:58.543] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 lost connection: Disconnected
+[01Jan2025 00:10:58.546] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 left the game
+[01Jan2025 01:15:19.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 5 players online: 
+[01Jan2025 01:15:21.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /advancement (grant|revoke)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /attribute <target> <attribute> (base|get|modifier)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban <targets> [<reason>]
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ban-ip <target> [<reason>]
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /banlist [ips|players]
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /bossbar (add|get|list|remove|set)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clear [<targets>]
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /config showfile <mod> <type>
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /data (get|merge|modify|remove)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /datapack (disable|enable|list)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deathhistory (<player>|<player_uuid>)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /debug (report|start|stop)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /defaultgamemode (adventure|creative|spectator|survival)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /deop <targets>
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /difficulty [easy|hard|normal|peaceful]
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /dumpHandlers
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /ec (lunarForecast|setLunarEvent)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /effect (clear|give)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enchant <targets> <enchantment> [<level>]
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /enhancedcelestials (lunarForecast|setLunarEvent)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /experience (add|query|set)
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[01Jan2025 01:15:21.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forceload (add|query|remove)
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /forge (dimensions|entity|generate|mods|setdimension|tps|track)
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /function <name>
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamemode (adventure|creative|spectator|survival)
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /give <targets> <item> [<count>]
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /help [<command>]
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kick <targets> [<reason>]
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /kill [<targets>]
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /list [uuids]
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|valhelsia_structures:big_tree|valhelsia_structures:castle|valhelsia_structures:castle_ruin|valhelsia_structures:desert_house|valhelsia_structures:forge|valhelsia_structures:player_house|valhelsia_structures:spawner_dungeon|valhelsia_structures:tower_ruin|valhelsia_structures:witch_hut|village)
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /locatebiome <biome>
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /loot (give|insert|replace|spawn)
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /lost -> lostcities
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /lostcities (debug|map|saveprofile)
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /me <action>
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /msg <targets> <message>
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /op <targets>
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon <targets>
+[01Jan2025 01:15:21.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /pardon-ip <target>
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /particle <name> [<pos>]
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /recipe (give|take)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /reload
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /replaceitem (block|entity)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-all [flush]
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-off
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /save-on
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /say <message>
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /sc (bug|connect|convert|dump|help|owner)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /schedule (clear|function)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /scoreboard (objectives|players)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /securitycraft (bug|connect|convert|dump|help|owner)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /seed
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setidletimeout <minutes>
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /setworldspawn [<pos>]
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spawnpoint [<targets>]
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spectate [<target>]
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /starterkit set
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stop
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /summon <entity> [<pos>]
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tag <targets> (add|list|remove)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tb (access|clear|remove|restore|unpack)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /team (add|empty|join|leave|list|modify|remove)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teammsg <message>
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /teleport (<destination>|<location>|<targets>)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tell -> msg
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tellraw <targets> <message>
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /time (add|query|set)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tm -> teammsg
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /tp -> teleport
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /trigger <objective> [add|set]
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /w -> msg
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /weather (clear|rain|thunder)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /whitelist (add|list|off|on|reload|remove)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /worldborder (add|center|damage|get|set|warning)
+[01Jan2025 01:15:21.378] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: /xp -> experience
+[01Jan2025 01:15:23.270] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 5 players online: 
+[01Jan2025 01:41:06.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 0 of a max of 5 players online: 
+[01Jan2025 09:39:29.033] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@27b4eed1
+[01Jan2025 09:39:29.045] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Maxcraft12[/101.128.101.82:41296] logged in with entity id 235800 at (-333.12804421154254, 75.0, 476.1818317175449)
+[01Jan2025 09:39:29.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 joined the game
+[01Jan2025 09:39:29.098] [Server thread/INFO] [Waila/]: Syncing config to Maxcraft12 (44423d39-2a03-31e0-9328-0ff1dc81b140)
+[01Jan2025 09:39:38.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 09:39:46.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 09:39:52.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 09:39:57.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 09:40:08.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 09:40:10.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 09:40:21.611] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 09:40:27.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 09:40:32.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 09:40:37.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 09:40:44.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 09:41:07.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 09:41:12.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 09:41:19.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 09:42:11.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 09:42:17.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 09:42:22.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 09:42:28.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 09:42:34.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 09:42:41.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 09:42:46.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 09:42:53.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 09:49:44.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 09:52:50.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 was slain by Infected Bear
+[01Jan2025 09:54:02.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12941.5, 68.5, 2771.5]
+[01Jan2025 09:54:39.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 09:55:03.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 09:55:08.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 09:55:13.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 09:55:19.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 09:55:26.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 09:55:29.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 09:55:36.188] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 09:55:44.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 09:55:49.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 09:55:53.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 09:56:36.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 09:56:41.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 09:57:04.494] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 09:57:11.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 09:57:16.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 09:57:24.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 09:57:27.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 09:58:07.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 09:58:36.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 10:10:28.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 10:10:34.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 10:11:37.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 10:11:46.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 10:11:52.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 10:12:01.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 10:12:08.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 10:12:14.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 10:12:20.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 10:12:23.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 10:12:30.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 10:12:38.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 10:13:34.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 10:13:43.192] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/253592, l='ServerLevel[world]', x=-1464.47, y=76.27, z=3137.14] died, message: 'Villager was slain by Infected Hazmat'
+[01Jan2025 10:15:49.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 10:44:05.660] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-341, y=63, z=592} BlockPos{x=-341, y=62, z=592}
+[01Jan2025 10:44:05.713] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-341, y=63, z=592} BlockPos{x=-341, y=62, z=592}
+[01Jan2025 10:47:04.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 10:47:31.233] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 10:47:36.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 10:47:44.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 10:47:59.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 10:48:06.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 10:48:10.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 10:48:17.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 10:48:24.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 10:48:35.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 10:48:52.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 10:52:17.316] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID ab9722c3-898b-4121-b4df-b8a8e4f0716d. Existing minecraft:armor_stand#264512, new: minecraft:armor_stand#264512
+[01Jan2025 10:52:29.019] [Server thread/WARN] [net.minecraft.world.server.ServerWorld/]: Trying to add entity with duplicated UUID d146576c-b27e-4f8c-a8a0-af16e72962f6. Existing minecraft:armor_stand#264554, new: minecraft:armor_stand#264554
+[01Jan2025 11:04:12.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 11:04:17.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 11:04:24.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 11:04:33.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 11:04:40.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 11:04:48.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 11:04:56.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 11:05:02.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 11:05:10.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 11:05:24.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 11:17:38.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 11:17:44.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 11:17:51.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 11:17:56.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 11:18:03.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 11:18:09.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 11:18:14.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 11:18:23.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 11:18:30.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 11:18:35.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 11:29:51.563] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/278329, l='ServerLevel[world]', x=-45.44, y=81.00, z=67.80]
+[01Jan2025 11:29:51.564] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Cobblestone'/278330, l='ServerLevel[world]', x=-45.03, y=81.00, z=68.63]
+[01Jan2025 11:30:20.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 11:31:50.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -296.5, 74.5, 484.5]
+[01Jan2025 11:37:08.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -215.5, 61.5, 535.5]
+[01Jan2025 11:38:58.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Spectator Mode]
+[01Jan2025 11:39:09.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[01Jan2025 11:39:09.558] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! 2.4643876812823464,0.7220064286899515,10.45883875512368
+[01Jan2025 11:39:17.238] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! 6.493747228677364,-6.787520835603061,-4.608497132563684
+[01Jan2025 11:39:44.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Survival Mode]
+[01Jan2025 11:39:57.154] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.211] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.249] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.303] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.354] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.397] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.458] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.501] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.561] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.599] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.647] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.715] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:57.764] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=31, z=870} BlockPos{x=-508, y=32, z=871}
+[01Jan2025 11:39:58.200] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=32, z=872} BlockPos{x=-505, y=33, z=869}
+[01Jan2025 11:39:58.400] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=33, z=874} BlockPos{x=-508, y=32, z=873}
+[01Jan2025 11:39:58.462] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-508, y=33, z=874} BlockPos{x=-508, y=32, z=873}
+[01Jan2025 11:40:04.262] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-507, y=31, z=873} BlockPos{x=-508, y=31, z=871}
+[01Jan2025 11:40:04.314] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-507, y=31, z=873} BlockPos{x=-508, y=31, z=871}
+[01Jan2025 11:40:04.359] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-507, y=31, z=873} BlockPos{x=-508, y=31, z=871}
+[01Jan2025 11:40:04.404] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-507, y=31, z=873} BlockPos{x=-508, y=31, z=871}
+[01Jan2025 11:40:05.551] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-510, y=31, z=868} BlockPos{x=-509, y=31, z=868}
+[01Jan2025 11:40:05.601] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-510, y=31, z=868} BlockPos{x=-509, y=31, z=868}
+[01Jan2025 11:40:05.662] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-510, y=31, z=868} BlockPos{x=-509, y=31, z=868}
+[01Jan2025 11:40:12.352] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-512, y=31, z=866} BlockPos{x=-510, y=30, z=868}
+[01Jan2025 11:44:20.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -215.5, 61.5, 535.5]
+[01Jan2025 11:44:28.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 11:44:57.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 11:55:06.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Creative Mode]
+[01Jan2025 11:58:13.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Survival Mode]
+[01Jan2025 12:02:08.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 12:02:12.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 12:02:15.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 12:02:24.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 12:02:28.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 12:02:34.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 12:02:37.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 12:02:42.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 12:02:51.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 12:02:56.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 12:03:03.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 12:05:43.047] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 lost connection: Disconnected
+[01Jan2025 12:05:43.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 left the game
+[01Jan2025 12:06:35.732] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b49fef3
+[01Jan2025 12:06:35.742] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Maxcraft12[/101.128.101.82:28025] logged in with entity id 287908 at (-348.5549552488118, 67.0, 456.15311271975156)
+[01Jan2025 12:06:35.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 joined the game
+[01Jan2025 12:06:35.778] [Server thread/INFO] [Waila/]: Syncing config to Maxcraft12 (44423d39-2a03-31e0-9328-0ff1dc81b140)
+[01Jan2025 12:07:18.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Creative Mode]
+[01Jan2025 12:09:21.585] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Survival Mode]
+[01Jan2025 12:13:14.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Creative Mode]
+[01Jan2025 12:13:48.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Survival Mode]
+[01Jan2025 12:16:21.436] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 lost connection: Disconnected
+[01Jan2025 12:16:21.437] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 left the game
+[01Jan2025 12:22:25.882] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@75117f0f
+[01Jan2025 12:22:25.893] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Maxcraft12[/101.128.101.82:27937] logged in with entity id 289441 at (-332.30000001192093, 72.0, 473.94396195382535)
+[01Jan2025 12:22:25.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 joined the game
+[01Jan2025 12:22:25.932] [Server thread/INFO] [Waila/]: Syncing config to Maxcraft12 (44423d39-2a03-31e0-9328-0ff1dc81b140)
+[01Jan2025 12:31:02.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 12:31:09.840] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 12:31:58.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 12:32:07.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 12:32:16.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 12:32:28.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Creative Mode]
+[01Jan2025 12:32:48.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Survival Mode]
+[01Jan2025 12:32:52.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 12:33:12.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 12:33:15.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 12:33:21.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 12:33:26.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 12:33:32.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 12:33:38.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 12:33:41.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 12:35:03.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Gave 1 [Vending Machine] to Maxcraft12]
+[01Jan2025 12:35:20.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 12:35:57.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 12:37:37.525] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 12:40:00.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 12:40:14.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 12:41:23.745] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 was kicked for floating too long!
+[01Jan2025 12:41:23.792] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 lost connection: Flying is not enabled on this server
+[01Jan2025 12:41:23.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 left the game
+[01Jan2025 12:42:15.187] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@62de2fad
+[01Jan2025 12:42:15.198] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Maxcraft12[/101.128.101.82:18704] logged in with entity id 297987 at (-6455.390534840888, 65.82930405164726, 2290.342542260665)
+[01Jan2025 12:42:15.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 joined the game
+[01Jan2025 12:42:15.260] [Server thread/INFO] [Waila/]: Syncing config to Maxcraft12 (44423d39-2a03-31e0-9328-0ff1dc81b140)
+[01Jan2025 12:46:33.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 12:50:16.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 12:50:19.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 12:50:22.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 12:53:41.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 was slain by Infection Military
+[01Jan2025 12:53:47.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12851.5, 67.5, 2858.5]
+[01Jan2025 12:53:47.635] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/302220, l='ServerLevel[world]', x=-12851.67, y=67.77, z=2858.30]
+[01Jan2025 12:57:04.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 12:57:59.346] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Gave 1 [Diamond Pickaxe] to Maxcraft12]
+[01Jan2025 12:58:20.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Gave 1 [Vending Machine] to Maxcraft12]
+[01Jan2025 12:58:27.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 12:58:29.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 12:58:31.235] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 12:58:35.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 12:58:39.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 12:58:43.931] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 12:58:49.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 12:58:54.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 13:00:32.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 13:00:39.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 13:01:07.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 13:01:12.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 13:01:18.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 13:01:26.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 13:01:33.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 13:01:41.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 13:01:52.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 13:02:01.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 13:02:06.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 13:04:33.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 13:07:51.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Spectator Mode]
+[01Jan2025 13:09:04.856] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! 9.57384425548662,-0.8162400324344645,-2.8881686777447158
+[01Jan2025 13:09:16.975] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! 9.573847560688591,3.3594124209233485,-2.888164827933224
+[01Jan2025 13:09:49.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Survival Mode]
+[01Jan2025 13:10:47.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 13:20:26.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 13:20:34.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 13:20:39.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 13:20:45.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 13:20:51.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 13:21:02.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 13:21:12.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 13:21:20.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 13:21:26.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 13:21:35.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 13:23:14.178] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 lost connection: Disconnected
+[01Jan2025 13:23:14.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 left the game
+[01Jan2025 14:24:21.284] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@786fb091
+[01Jan2025 14:24:21.294] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Maxcraft12[/101.128.101.82:30581] logged in with entity id 317791 at (-36.30000001192093, 82.0, 72.34583810666321)
+[01Jan2025 14:24:21.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 joined the game
+[01Jan2025 14:24:21.328] [Server thread/INFO] [Waila/]: Syncing config to Maxcraft12 (44423d39-2a03-31e0-9328-0ff1dc81b140)
+[01Jan2025 14:25:14.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -215.5, 61.5, 535.5]
+[01Jan2025 14:36:08.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -215.5, 61.5, 535.5]
+[01Jan2025 14:47:22.593] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-230, y=69, z=503} BlockPos{x=-231, y=69, z=502}
+[01Jan2025 14:47:22.797] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-230, y=69, z=503} BlockPos{x=-231, y=69, z=503}
+[01Jan2025 14:57:22.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 has completed the challenge [Hot Tourist Destinations]
+[01Jan2025 14:59:25.147] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-90, y=95, z=1212} BlockPos{x=-89, y=96, z=1212}
+[01Jan2025 14:59:25.196] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-90, y=95, z=1212} BlockPos{x=-89, y=96, z=1212}
+[01Jan2025 14:59:26.996] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-83, y=95, z=1212} BlockPos{x=-81, y=96, z=1212}
+[01Jan2025 14:59:50.448] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-74, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:50.503] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-74, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:50.548] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-74, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:50.598] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-74, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:50.646] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-74, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:50.696] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-74, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:50.745] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-74, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:50.797] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-74, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:50.850] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-74, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:50.899] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-72, y=93, z=1212} BlockPos{x=-73, y=93, z=1212}
+[01Jan2025 14:59:55.448] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=95, z=1216} BlockPos{x=-69, y=94, z=1215}
+[01Jan2025 14:59:55.496] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=95, z=1216} BlockPos{x=-69, y=94, z=1215}
+[01Jan2025 14:59:55.545] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=95, z=1216} BlockPos{x=-69, y=94, z=1215}
+[01Jan2025 14:59:55.598] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=95, z=1216} BlockPos{x=-69, y=94, z=1215}
+[01Jan2025 14:59:55.847] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-68, y=94, z=1216}
+[01Jan2025 14:59:55.896] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-69, y=95, z=1217}
+[01Jan2025 14:59:55.947] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-69, y=95, z=1217}
+[01Jan2025 14:59:56.095] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-69, y=95, z=1217}
+[01Jan2025 14:59:56.147] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-69, y=95, z=1217}
+[01Jan2025 14:59:56.196] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-69, y=95, z=1217}
+[01Jan2025 14:59:56.249] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-69, y=95, z=1217}
+[01Jan2025 14:59:56.299] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-69, y=95, z=1217}
+[01Jan2025 14:59:56.350] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-69, y=95, z=1217}
+[01Jan2025 14:59:56.399] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-69, y=96, z=1217} BlockPos{x=-69, y=95, z=1217}
+[01Jan2025 15:00:01.960] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-72, y=96, z=1222} BlockPos{x=-70, y=95, z=1224}
+[01Jan2025 15:00:02.020] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-72, y=96, z=1222} BlockPos{x=-73, y=96, z=1222}
+[01Jan2025 15:00:02.052] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-72, y=96, z=1222} BlockPos{x=-73, y=96, z=1222}
+[01Jan2025 15:00:16.044] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-127, y=93, z=1222} BlockPos{x=-129, y=92, z=1223}
+[01Jan2025 15:00:16.194] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-129, y=92, z=1223} BlockPos{x=-126, y=93, z=1221}
+[01Jan2025 15:00:17.497] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=93, z=1216} BlockPos{x=-126, y=92, z=1217}
+[01Jan2025 15:00:17.548] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=91, z=1217} BlockPos{x=-126, y=92, z=1217}
+[01Jan2025 15:00:17.746] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=91, z=1217} BlockPos{x=-126, y=92, z=1216}
+[01Jan2025 15:00:17.795] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=91, z=1217} BlockPos{x=-126, y=92, z=1216}
+[01Jan2025 15:00:19.996] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=92, z=1209} BlockPos{x=-126, y=91, z=1211}
+[01Jan2025 15:00:20.152] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=93, z=1211} BlockPos{x=-126, y=91, z=1211}
+[01Jan2025 15:00:20.195] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=93, z=1211} BlockPos{x=-126, y=91, z=1211}
+[01Jan2025 15:00:20.250] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=93, z=1211} BlockPos{x=-126, y=91, z=1211}
+[01Jan2025 15:00:20.296] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=93, z=1211} BlockPos{x=-126, y=91, z=1211}
+[01Jan2025 15:00:20.500] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=92, z=1209} BlockPos{x=-126, y=91, z=1210}
+[01Jan2025 15:00:20.545] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=92, z=1209} BlockPos{x=-126, y=91, z=1210}
+[01Jan2025 15:00:21.345] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-126, y=92, z=1205} BlockPos{x=-126, y=91, z=1206}
+[01Jan2025 15:00:23.097] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.146] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.197] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.247] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.298] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.365] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.396] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.449] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.503] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.545] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.599] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.651] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.701] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.754] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.798] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.845] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.904] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.951] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:23.996] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.047] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.104] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.149] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.198] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.254] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.296] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.348] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.395] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.449] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:24.496] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-125, y=92, z=1208} BlockPos{x=-125, y=90, z=1208}
+[01Jan2025 15:00:26.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -296.5, 74.5, 484.5]
+[01Jan2025 15:00:30.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 15:00:38.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 15:13:16.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 15:13:20.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 15:13:48.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 15:14:33.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 15:14:43.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 15:14:54.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 15:15:00.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 15:15:12.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 15:15:17.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 15:15:28.253] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 15:15:34.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 15:15:54.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 15:16:04.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 15:16:12.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 15:16:48.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -17847.5, 64.5, 2211.5]
+[01Jan2025 15:16:52.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 15:17:49.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 15:17:57.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 15:19:42.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -2481.5, 64.5, 3618.5]
+[01Jan2025 15:19:53.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -296.5, 74.5, 484.5]
+[01Jan2025 15:29:48.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 15:29:55.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 15:31:12.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Spectator Mode]
+[01Jan2025 15:32:55.697] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! -9.640530886909517,-2.814403390428481,1.819337167722864
+[01Jan2025 15:34:17.851] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! 10.547763695395815,0.0,2.6854878178728256
+[01Jan2025 15:34:47.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 has made the advancement [Those Were the Days]
+[01Jan2025 15:35:30.247] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Survival Mode]
+[01Jan2025 15:36:06.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 has made the advancement [War Pigs]
+[01Jan2025 15:49:23.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 has made the advancement [Spooky Scary Skeleton]
+[01Jan2025 15:51:44.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: There are 1 of a max of 5 players online: Maxcraft12
+[01Jan2025 15:52:43.519] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -296.5, 74.5, 484.5]
+[01Jan2025 15:57:18.646] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.IllegalStateException: Performer not holding gun
+	at com.craftingdead.core.world.action.reload.AbstractReloadAction.lambda$new$0(AbstractReloadAction.java:46) ~[craftingdead:1.7.4-alpha]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:296) ~[forge:?]
+	at com.craftingdead.core.world.action.reload.AbstractReloadAction.<init>(AbstractReloadAction.java:46) ~[craftingdead:1.7.4-alpha]
+	at com.craftingdead.core.world.action.reload.MagazineReloadAction.<init>(MagazineReloadAction.java:52) ~[craftingdead:1.7.4-alpha]
+	at com.craftingdead.core.world.action.ActionType.createAction(ActionType.java:39) ~[craftingdead:1.7.4-alpha]
+	at com.craftingdead.core.network.message.play.PerformActionMessage.lambda$handle$0(PerformActionMessage.java:67) ~[craftingdead:1.7.4-alpha]
+	at net.minecraftforge.fml.network.NetworkEvent$Context.enqueueWork(NetworkEvent.java:215) ~[forge:?]
+	at com.craftingdead.core.network.message.play.PerformActionMessage.handle(PerformActionMessage.java:57) ~[craftingdead:1.7.4-alpha]
+	at net.minecraftforge.fml.network.simple.SimpleChannel$MessageBuilder.lambda$consumer$1(SimpleChannel.java:240) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.lambda$tryDecode$3(IndexedMessageCodec.java:128) ~[forge:?]
+	at java.util.Optional.ifPresent(Optional.java:159) ~[?:1.8.0_312]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.tryDecode(IndexedMessageCodec.java:128) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.IndexedMessageCodec.consume(IndexedMessageCodec.java:162) ~[forge:?]
+	at net.minecraftforge.fml.network.simple.SimpleChannel.networkEventListener(SimpleChannel.java:80) ~[forge:?]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.network.NetworkInstance.dispatch(NetworkInstance.java:86) ~[forge:?]
+	at net.minecraftforge.fml.network.NetworkHooks.lambda$onCustomPayload$1(NetworkHooks.java:91) ~[forge:?]
+	at java.util.Optional.map(Optional.java:215) ~[?:1.8.0_312]
+	at net.minecraftforge.fml.network.NetworkHooks.onCustomPayload(NetworkHooks.java:91) ~[forge:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147349_a(ServerPlayNetHandler.java:1413) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:42) ~[?:?]
+	at net.minecraft.network.play.client.CCustomPayloadPacket.func_148833_a(CCustomPayloadPacket.java:12) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[01Jan2025 16:00:19.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 16:07:17.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 16:13:11.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 16:13:25.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 16:13:36.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 16:13:42.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 16:13:50.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 16:14:00.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 16:14:52.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 16:14:59.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 16:15:05.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 16:15:11.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 16:15:19.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 16:15:22.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 16:15:27.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 16:15:49.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 16:16:37.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 16:16:53.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 16:16:57.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 16:21:04.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 16:21:07.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 16:29:47.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 16:35:09.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 16:36:40.288] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 16:36:46.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 16:36:52.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 16:37:03.892] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 16:37:11.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 16:37:17.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 16:37:22.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 16:37:27.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 16:37:43.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 16:37:49.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 16:39:44.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 16:41:38.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 16:42:12.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 16:44:59.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 16:47:23.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 16:47:46.237] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 16:47:51.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 16:48:00.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 16:48:05.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 16:48:13.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 16:48:20.193] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 16:48:27.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 16:48:33.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 16:48:39.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 16:48:45.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 16:52:36.033] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 16:56:40.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 16:57:25.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 16:57:30.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 16:58:56.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 17:16:54.596] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 17:17:00.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 17:17:05.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 17:17:14.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 17:17:17.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 17:17:25.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 17:17:31.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 17:17:33.907] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 17:17:41.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 17:17:48.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 17:17:55.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 17:18:02.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 17:18:05.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 17:18:15.890] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 17:53:47.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 17:56:32.501] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 has made the advancement [The End?]
+[01Jan2025 17:56:34.785] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Scanning for legacy world dragon fight...
+[01Jan2025 17:56:34.786] [Server thread/INFO] [net.minecraft.world.end.DragonFightManager/]: Found that the dragon has not yet been killed in this world.
+[01Jan2025 17:56:35.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+[01Jan2025 17:58:53.423] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 was kicked for floating too long!
+[01Jan2025 17:58:53.473] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 lost connection: Flying is not enabled on this server
+[01Jan2025 17:58:53.473] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 left the game
+[01Jan2025 17:58:58.484] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7e7e2ee7
+[01Jan2025 17:58:58.495] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Maxcraft12[/101.128.101.82:16661] logged in with entity id 377476 at (105.27453667357128, -96.31000495150606, -4.829586245452552)
+[01Jan2025 17:58:58.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 joined the game
+[01Jan2025 17:58:58.513] [Server thread/INFO] [Waila/]: Syncing config to Maxcraft12 (44423d39-2a03-31e0-9328-0ff1dc81b140)
+[01Jan2025 17:58:59.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 fell out of the world
+[01Jan2025 17:59:00.619] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[01Jan2025 17:59:00.630] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! 0.0,-18.888055497837385,0.0
+[01Jan2025 17:59:49.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Spectator Mode]
+[01Jan2025 18:00:08.847] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! 9.443064471783657,0.0,3.959799094707577
+[01Jan2025 18:01:23.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Set own game mode to Survival Mode]
+[01Jan2025 18:02:09.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 18:02:18.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:02:31.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -2481.5, 64.5, 3618.5]
+[01Jan2025 18:02:47.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -296.5, 74.5, 484.5]
+[01Jan2025 18:03:13.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 18:03:17.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -296.5, 74.5, 484.5]
+[01Jan2025 18:03:44.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 18:03:52.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:06:28.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:08:05.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:08:28.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:11:03.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:11:51.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 18:11:55.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 18:12:01.115] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 18:12:06.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 18:12:11.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 18:12:18.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 18:12:23.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 18:12:28.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 18:12:33.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 18:12:36.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 18:12:43.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 18:12:50.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:15:46.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 18:16:34.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:17:32.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -2481.5, 64.5, 3618.5]
+[01Jan2025 18:18:31.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:20:43.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:21:06.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:24:46.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:25:28.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:26:44.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:27:21.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 18:27:32.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 18:27:40.173] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 18:27:47.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 18:27:53.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 18:27:55.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 18:28:01.151] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 18:28:08.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 18:28:18.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 18:28:22.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 18:28:28.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 18:28:59.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 18:29:04.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 18:29:10.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 18:29:14.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 18:29:17.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 18:29:21.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 18:29:26.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 18:29:30.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 18:29:34.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 18:29:38.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 18:29:42.328] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 18:29:46.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 18:29:57.035] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:30:44.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:36:46.777] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:37:59.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:40:47.388] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 18:40:50.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:41:10.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 18:41:53.885] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 18:43:21.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:45:15.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 18:45:19.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 18:45:29.911] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Villager'/400046, l='ServerLevel[world]', x=-1409.84, y=88.00, z=3101.08] died, message: 'Villager was slain by Military Soldier'
+[01Jan2025 18:49:51.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:49:54.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:50:45.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:51:19.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:55:49.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:56:34.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 18:57:38.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 18:57:52.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 19:01:49.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 19:02:00.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 19:05:23.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 19:24:57.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 19:31:13.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 19:31:23.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 19:31:36.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:02:44.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 fell from a high place
+[01Jan2025 20:03:08.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 46.5, 48.5, 81.5]
+[01Jan2025 20:04:15.309] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=31, y=40, z=46} BlockPos{x=30, y=38, z=46}
+[01Jan2025 20:16:29.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 20:16:38.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:19:32.947] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@603c6c5f
+[01Jan2025 20:19:32.957] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:32468] logged in with entity id 418778 at (-504.0736588553094, 80.5625, 3463.6001301114443)
+[01Jan2025 20:19:32.963] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 20:19:32.993] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 20:19:35.974] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 20:19:40.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 20:19:48.292] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 20:19:53.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 20:19:59.908] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 20:20:07.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 20:20:11.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 20:20:17.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 20:20:25.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 20:20:33.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:20:36.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 20:20:48.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:21:01.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to Ishigaki_izu]
+[01Jan2025 20:21:47.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Ishigaki_izu> ???
+[01Jan2025 20:21:53.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Maxcraft12> watasigma
+[01Jan2025 20:21:54.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[01Jan2025 20:22:25.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:22:29.952] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-352, y=67, z=3649}
+[01Jan2025 20:23:14.953] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu has made the advancement [Dead Sea]
+[01Jan2025 20:23:27.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.radiation
+[01Jan2025 20:23:32.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -430.5, 66.5, 3649.5]
+[01Jan2025 20:23:32.245] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ExperienceOrbEntity['Experience Orb'/423118, l='ServerLevel[world]', x=-430.48, y=67.11, z=3650.12]
+[01Jan2025 20:24:20.703] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 20:24:25.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:25:41.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 20:29:23.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:29:23.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[01Jan2025 20:29:28.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:29:51.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[01Jan2025 20:30:09.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2625ms or 52 ticks behind
+[01Jan2025 20:34:30.444] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu moved too quickly! 9.749538941412965,-0.15233518685055003,2.816057756783721
+[01Jan2025 20:34:30.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[01Jan2025 20:35:23.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[01Jan2025 20:36:08.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 20:37:29.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:39:28.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu was shot in the head
+[01Jan2025 20:39:33.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 20:39:34.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding.player
+[01Jan2025 20:39:40.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -345.5, 66.5, 474.5]
+[01Jan2025 20:40:59.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 20:41:03.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 20:41:10.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 20:41:18.407] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 20:41:24.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 20:41:28.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -271.5, 68.5, 335.5]
+[01Jan2025 20:41:31.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 20:41:37.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 20:41:45.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 20:41:48.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 20:41:54.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 20:41:58.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 20:42:03.612] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 20:42:18.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:46:35.835] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -284.5, 75.5, 368.5]
+[01Jan2025 20:46:44.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to Ishigaki_izu]
+[01Jan2025 20:46:46.158] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 20:46:51.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:47:39.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -284.5, 75.5, 368.5]
+[01Jan2025 20:47:45.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 20:47:50.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 20:48:24.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 20:51:35.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu has made the advancement [Voluntary Exile]
+[01Jan2025 20:52:19.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -271.5, 68.5, 335.5]
+[01Jan2025 20:52:20.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 20:53:43.359] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Cleric'/389, l='ServerLevel[world]', x=-266.78, y=68.00, z=350.17] died, message: 'Cleric was shot'
+[01Jan2025 20:55:12.783] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Mason'/391, l='ServerLevel[world]', x=-268.13, y=69.00, z=360.49] died, message: 'Mason was slain by Rat King'
+[01Jan2025 20:56:31.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 542.5, 70.5, 1116.5]
+[01Jan2025 20:56:35.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 20:56:41.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to Ishigaki_izu]
+[01Jan2025 20:57:57.211] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 20:58:07.451] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 20:58:20.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 20:58:35.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 20:58:49.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 20:59:06.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 20:59:17.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 20:59:26.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 20:59:55.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 21:00:07.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:00:30.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 21:00:39.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:00:54.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 21:01:14.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:01:38.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 21:01:41.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 21:01:51.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:02:08.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 21:02:24.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:02:35.484] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 21:02:40.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 542.5, 70.5, 1116.5]
+[01Jan2025 21:02:45.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 21:02:58.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 21:03:04.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:04:09.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 21:04:16.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 21:08:49.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -284.5, 75.5, 368.5]
+[01Jan2025 21:08:58.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 542.5, 70.5, 1116.5]
+[01Jan2025 21:09:13.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -263.5, 68.5, 308.5]
+[01Jan2025 21:09:30.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -1508.5, 64.5, 3127.5]
+[01Jan2025 21:09:51.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -1450.5, 78.5, 3103.5]
+[01Jan2025 21:10:06.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -6369.5, 71.5, 2301.5]
+[01Jan2025 21:10:21.900] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 21:16:05.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -43.5, 82.5, 68.5]
+[01Jan2025 21:21:46.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:26:17.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -215.5, 61.5, 535.5]
+[01Jan2025 21:27:05.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -296.5, 74.5, 484.5]
+[01Jan2025 21:27:38.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -308.5, 80.5, 442.5]
+[01Jan2025 21:27:55.993] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -284.5, 75.5, 368.5]
+[01Jan2025 21:28:00.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 21:28:06.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 542.5, 70.5, 1116.5]
+[01Jan2025 21:28:16.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -263.5, 68.5, 308.5]
+[01Jan2025 21:28:27.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -1508.5, 64.5, 3127.5]
+[01Jan2025 21:28:46.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -1450.5, 78.5, 3103.5]
+[01Jan2025 21:28:53.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -6369.5, 71.5, 2301.5]
+[01Jan2025 21:29:02.853] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -12957.5, 72.5, 2757.5]
+[01Jan2025 21:29:23.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 21:29:27.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 21:29:30.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 21:30:01.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -271.5, 68.5, 335.5]
+[01Jan2025 21:30:22.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 21:30:26.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 21:30:32.580] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 21:30:37.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 21:30:40.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -12957.5, 72.5, 2757.5]
+[01Jan2025 21:30:43.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 21:30:47.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 21:30:51.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 21:30:57.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 21:31:09.234] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 542.5, 70.5, 1116.5]
+[01Jan2025 21:31:24.060] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to Ishigaki_izu]
+[01Jan2025 21:32:10.639] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -13122.5, 77.5, 3271.5]
+[01Jan2025 21:32:15.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 21:32:24.087] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -14708.5, 71.5, 3257.5]
+[01Jan2025 21:32:26.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 542.5, 70.5, 1116.5]
+[01Jan2025 21:32:33.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 21:32:47.194] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/453685, l='ServerLevel[world]', x=-14717.70, y=68.00, z=3191.83] died, message: 'Farmer was slain by Infected Dog'
+[01Jan2025 21:33:01.699] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -6369.5, 71.5, 2301.5]
+[01Jan2025 21:35:26.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -14708.5, 71.5, 3257.5]
+[01Jan2025 21:36:43.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 21:39:34.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 21:39:51.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 542.5, 70.5, 1116.5]
+[01Jan2025 21:40:00.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 21:40:10.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 21:40:18.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 21:43:47.900] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@59465993
+[01Jan2025 21:43:47.910] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Omnivora[/125.164.21.46:14936] logged in with entity id 459547 at (-329.015778694241, 66.0, 470.0552268380752)
+[01Jan2025 21:43:47.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora joined the game
+[01Jan2025 21:43:47.973] [Server thread/INFO] [Waila/]: Syncing config to Omnivora (a8c4833b-8277-3e4b-8a36-c026632b3548)
+[01Jan2025 21:45:31.989] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -283.5, 75.5, 368.5]
+[01Jan2025 21:45:35.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -263.5, 68.5, 308.5]
+[01Jan2025 21:45:40.091] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1508.5, 64.5, 3127.5]
+[01Jan2025 21:45:48.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 21:45:55.039] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 21:46:00.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 21:46:05.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 542.5, 70.5, 1116.5]
+[01Jan2025 21:46:11.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 21:46:25.518] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:46:28.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -333.5, 75.5, 482.5]
+[01Jan2025 21:46:36.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 21:52:55.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu was slain by Omnivora
+[01Jan2025 21:52:59.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -333.5, 67.5, 476.5]
+[01Jan2025 21:53:06.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 21:53:41.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13143.5, 67.5, 3288.5]
+[01Jan2025 21:53:42.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:53:44.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -14709.5, 71.5, 3257.5]
+[01Jan2025 21:53:48.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 542.5, 70.5, 1116.5]
+[01Jan2025 21:53:52.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13275.5, 63.5, 1594.5]
+[01Jan2025 21:53:56.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -13122.5, 77.5, 3271.5]
+[01Jan2025 21:53:57.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -284.5, 75.5, 368.5]
+[01Jan2025 21:54:00.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -12957.5, 72.5, 2757.5]
+[01Jan2025 21:54:03.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -6369.5, 72.5, 2300.5]
+[01Jan2025 21:54:06.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1450.5, 78.5, 3104.5]
+[01Jan2025 21:54:12.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -263.5, 68.5, 308.5]
+[01Jan2025 21:54:15.861] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to Maxcraft12]
+[01Jan2025 21:54:23.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 21:54:29.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 21:54:33.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to Maxcraft12]
+[01Jan2025 21:54:37.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Maxcraft12]
+[01Jan2025 21:55:10.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora has made the advancement [The End?]
+[01Jan2025 21:55:23.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu has made the advancement [The End?]
+[01Jan2025 21:55:24.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 531.5, 30.5, 1728.5]
+[01Jan2025 21:55:24.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13096ms or 261 ticks behind
+[01Jan2025 21:55:24.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Omnivora> helpp
+[01Jan2025 21:55:24.780] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! -431.3927642752236,19.464159374955443,-1724.7765783004243
+[01Jan2025 21:55:28.246] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu was kicked for floating too long!
+[01Jan2025 21:55:28.286] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Flying is not enabled on this server
+[01Jan2025 21:55:28.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 21:55:41.437] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@a85ee68
+[01Jan2025 21:55:41.445] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8413] logged in with entity id 464784 at (531.5, 24.811611207172614, 1728.5)
+[01Jan2025 21:55:41.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 21:55:41.462] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 21:55:48.178] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu was kicked for floating too long!
+[01Jan2025 21:55:48.230] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Flying is not enabled on this server
+[01Jan2025 21:55:48.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 21:56:12.889] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4ae0ad90
+[01Jan2025 21:56:12.899] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8435] logged in with entity id 464799 at (531.5, -184.3084142433748, 1728.5)
+[01Jan2025 21:56:12.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 21:56:12.915] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 21:56:13.489] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu fell out of the world
+[01Jan2025 21:56:13.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Ishigaki_izu to Omnivora]
+[01Jan2025 21:56:15.150] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+[01Jan2025 21:56:27.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 531.5, 30.5, 1728.5]
+[01Jan2025 21:57:55.326] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu was kicked for floating too long!
+[01Jan2025 21:57:55.377] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Flying is not enabled on this server
+[01Jan2025 21:57:55.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 21:58:08.993] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18fb6e9c
+[01Jan2025 21:58:09.003] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8251] logged in with entity id 465434 at (75.19539036734433, 79.7064663882502, 28.734870687791442)
+[01Jan2025 21:58:09.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 21:58:09.030] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 21:58:11.804] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu fell from a high place
+[01Jan2025 21:58:16.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 531.5, 30.5, 1728.5]
+[01Jan2025 21:58:24.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 75.5, 61.5, 28.5]
+[01Jan2025 21:59:02.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to Omnivora]
+[01Jan2025 21:59:27.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 was doomed to fall by Ender Dragon
+[01Jan2025 21:59:34.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 530.5, 30.5, 1727.5]
+[01Jan2025 21:59:38.985] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to 17.5, 62.5, 39.5]
+[01Jan2025 22:00:27.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu was slain by Enderman
+[01Jan2025 22:00:32.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 22:00:39.250] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -332.5, 71.5, 483.5]
+[01Jan2025 22:02:23.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 531.5, 30.5, 1728.5]
+[01Jan2025 22:02:31.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 531.5, 30.5, 1728.5]
+[01Jan2025 22:02:54.841] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Timed out
+[01Jan2025 22:02:54.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 22:03:04.495] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f65dca5
+[01Jan2025 22:03:04.505] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8321] logged in with entity id 467786 at (531.5, 30.5, 1728.5)
+[01Jan2025 22:03:04.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 22:03:04.538] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 22:03:15.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora fell from a high place
+[01Jan2025 22:03:23.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to 527.5, 27.5, 1729.5]
+[01Jan2025 22:03:30.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to 12.5, 62.5, 34.5]
+[01Jan2025 22:03:30.748] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 531.5, 30.5, 1728.5]
+[01Jan2025 22:03:38.638] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Disconnected
+[01Jan2025 22:03:38.638] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 22:03:47.639] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3c2026ad
+[01Jan2025 22:03:47.647] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8344] logged in with entity id 468546 at (531.5, 30.5, 1728.5)
+[01Jan2025 22:03:47.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 22:03:47.666] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 22:04:08.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15044ms or 300 ticks behind
+[01Jan2025 22:04:08.030] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu moved too quickly! 0.0,-15.694420234584605,0.0
+[01Jan2025 22:04:08.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -15.5, 65.5, -10.5]
+[01Jan2025 22:04:08.114] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -15.5, 65.5, -10.5]
+[01Jan2025 22:04:10.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu fell from a high place
+[01Jan2025 22:04:20.561] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Disconnected
+[01Jan2025 22:04:20.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 22:04:30.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora has made the advancement [Free the End]
+[01Jan2025 22:06:10.683] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@502cb796
+[01Jan2025 22:06:10.690] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8406] logged in with entity id 469060 at (-332.5, 71.5625, 475.5)
+[01Jan2025 22:06:10.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 22:06:10.712] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 22:06:19.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to 531.5, 30.5, 1728.5]
+[01Jan2025 22:07:04.235] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Timed out
+[01Jan2025 22:07:04.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 22:07:12.934] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@45451a2a
+[01Jan2025 22:07:12.941] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8324] logged in with entity id 469344 at (531.5, 30.5, 1728.5)
+[01Jan2025 22:07:12.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 22:07:12.973] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 22:08:10.486] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Timed out
+[01Jan2025 22:08:10.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 22:08:19.737] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6e2d067b
+[01Jan2025 22:08:19.745] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8242] logged in with entity id 469733 at (100.5, 49.0, 0.5)
+[01Jan2025 22:08:19.750] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 22:08:19.761] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 22:08:30.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Ishigaki_izu: Teleported Ishigaki_izu to -15.5, 65.5, -10.5]
+[01Jan2025 22:08:46.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 has reached the goal [The Next Generation]
+[01Jan2025 22:09:32.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora has made the advancement [Remote Getaway]
+[01Jan2025 22:09:34.707] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu moved too quickly! 1.2396454364570957,-10.54421682820972,0.3560435736646923
+[01Jan2025 22:09:36.131] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu was kicked for floating too long!
+[01Jan2025 22:09:36.181] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Flying is not enabled on this server
+[01Jan2025 22:09:36.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 22:09:49.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 has made the advancement [Remote Getaway]
+[01Jan2025 22:09:51.381] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@43468dcd
+[01Jan2025 22:09:51.387] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8310] logged in with entity id 470005 at (-91.30263716462163, 36.74051017045852, 28.393096173150404)
+[01Jan2025 22:09:51.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 22:09:51.410] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 22:09:57.331] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu was kicked for floating too long!
+[01Jan2025 22:09:57.382] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Flying is not enabled on this server
+[01Jan2025 22:09:57.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 22:10:12.835] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@18fa3664
+[01Jan2025 22:10:12.841] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Ishigaki_izu[/101.128.100.98:8333] logged in with entity id 470120 at (-91.30263716462163, -200.75372126744566, 28.393096173150404)
+[01Jan2025 22:10:12.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu joined the game
+[01Jan2025 22:10:12.856] [Server thread/INFO] [Waila/]: Syncing config to Ishigaki_izu (66487c00-8759-32f0-8a40-a88c7ae363eb)
+[01Jan2025 22:10:13.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu fell out of the world
+[01Jan2025 22:10:14.887] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213160_bf(SourceFile:103) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:696) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[01Jan2025 22:10:14.892] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu moved too quickly! 0.0,-23.15431186213138,0.0
+[01Jan2025 22:10:15.554] [Server thread/FATAL] [net.minecraft.util.concurrent.ThreadTaskExecutor/]: Error executing task on Server
+java.lang.NullPointerException: null
+	at net.minecraft.world.server.TicketManager.func_219367_b(TicketManager.java:227) ~[?:?]
+	at net.minecraft.world.server.ChunkManager.func_219183_a(ChunkManager.java:884) ~[?:?]
+	at net.minecraft.world.server.ServerChunkProvider.func_217221_a(ServerChunkProvider.java:450) ~[?:?]
+	at net.minecraft.network.play.ServerPlayNetHandler.func_147347_a(ServerPlayNetHandler.java:845) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket.func_148833_a(SourceFile:122) ~[?:?]
+	at net.minecraft.network.play.client.CPlayerPacket$PositionPacket.func_148833_a(SourceFile:56) ~[?:?]
+	at net.minecraft.network.PacketThreadUtil.func_225383_a(SourceFile:21) ~[?:?]
+	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144) ~[?:?]
+	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:734) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServer.java:159) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServer.java:717) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServer.java:711) ~[?:?]
+	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServer.java:697) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:646) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_312]
+[01Jan2025 22:10:19.889] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Ishigaki_izu lost connection: Disconnected
+[01Jan2025 22:10:19.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Ishigaki_izu left the game
+[01Jan2025 22:10:21.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 has made the advancement [The City at the End of the Game]
+[01Jan2025 22:10:36.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora has made the advancement [The City at the End of the Game]
+[01Jan2025 22:13:19.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora has made the advancement [Cover Me With Diamonds]
+[01Jan2025 22:17:13.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to Omnivora]
+[01Jan2025 22:18:31.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora was shot in the head
+[01Jan2025 22:18:36.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to 527.5, 27.5, 1729.5]
+[01Jan2025 22:18:43.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to -1115.5, 61.5, 338.5]
+[01Jan2025 22:18:44.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to -1115.5, 61.5, 338.5]
+[01Jan2025 22:18:45.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to -1460.5, 62.5, 653.5]
+[01Jan2025 22:18:53.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5687ms or 113 ticks behind
+[01Jan2025 22:18:56.183] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Omnivora moved too quickly! 9.021270688546792,-1.0,4.37020845092195
+[01Jan2025 22:19:07.487] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Omnivora moved too quickly! -3.81050915684591,3.324473125962129,-8.853219743812474
+[01Jan2025 22:19:11.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[01Jan2025 22:25:10.909] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Maxcraft12 moved too quickly! 7.524709543897416,2.4402160232410495,6.298155030679027
+[01Jan2025 22:25:10.909] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Omnivora moved too quickly! 8.788537563049431,1.0,-4.797587290591597
+[01Jan2025 22:25:51.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to 100.5, 49.5, 0.5]
+[01Jan2025 22:26:37.229] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Omnivora: Teleported Omnivora to -333.5, 67.5, 480.5]
+[01Jan2025 22:27:27.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Maxcraft12: Teleported Maxcraft12 to -1114.5, 61.5, 335.5]
+[01Jan2025 22:27:27.972] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Maxcraft12 has reached the goal [Postmortal]
+[01Jan2025 22:27:37.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[01Jan2025 22:29:44.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora has made the advancement [Spooky Scary Skeleton]
+[01Jan2025 22:29:44.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Omnivora has reached the goal [The Next Generation]
